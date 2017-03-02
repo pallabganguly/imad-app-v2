@@ -1,6 +1,7 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
+    color: #98234b;
+    font-family: Dosis;
+    background-color: #ffffff;
     margin-top: 75px;
 }
 
@@ -20,3 +21,11 @@ body {
     height: 200px;
 }
 
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    color: #98234b;
+    font-family: Dosis;
+    text-align: center;
+    padding-top: 65px;
+}
